@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">To Do</string>
 
+    <string name="delete_all_tasks">Remove All tasks?</string>
+    <string name="delete_all_tasks_confirmation">Are you sure you want to remove all Tasks?</string>
     <string name="delete_task">Remove \'%1$s\'?</string>
     <string name="delete_task_confirmation">Are you sure you want to remove \'%1$s\'</string>
     <string name="no">No</string>
